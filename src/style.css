@@ -1,0 +1,19 @@
+#canvas {
+  border:3px solid red;
+  background:black;
+  margin-left:10%;
+}
+
+#start_btn {
+  border:2px solid black;
+  background:#30abc9;
+  margin-left:45%;
+  width:200px;
+  height:50px;
+  border-radius:10px;
+  font-size:25px;
+}
+
+#start_btn:hover {
+  background-color:#25e665;
+}
